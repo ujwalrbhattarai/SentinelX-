@@ -1,0 +1,3 @@
+[console_scripts]
+sentinelx = sentinelx.main:main
+sentinelx-service = sentinelx.service:main

@@ -1,0 +1,38 @@
+# SentinelX – Requirements
+# Python 3.11+
+
+# GUI Framework
+PySide6>=6.6.0
+
+# Network Capture
+scapy>=2.5.0
+
+# Process Monitoring
+psutil>=5.9.0
+
+# Windows Event Logs
+pywin32>=306
+
+# File System Monitoring
+watchdog>=3.0.0
+
+# Database ORM
+SQLAlchemy>=2.0.0
+
+# Password Hashing
+bcrypt>=4.1.0
+
+# Config Encryption
+cryptography>=41.0.0
+
+# Charting
+matplotlib>=3.8.0
+
+# PDF Reports
+reportlab>=4.0.0
+
+# Windows Toast Notifications
+winotify>=1.1.0
+
+# Packaging (optional, for building .exe)
+# pyinstaller>=6.0.0
