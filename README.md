@@ -214,7 +214,3 @@ python -m pytest tests/ -v
 | PDF Reports | reportlab |
 
 ---
-
-## 📜 License
-
-Proprietary. See LICENSE file for details.
