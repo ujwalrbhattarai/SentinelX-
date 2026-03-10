@@ -175,29 +175,6 @@ Scores aggregate per IP/entity over a 24-hour rolling window (capped at 1000).
 
 ---
 
-## 💼 Licensing
-
-| Feature | Free | Pro |
-|---------|------|-----|
-| All monitoring modules | ✅ | ✅ |
-| Real-time dashboard | ✅ | ✅ |
-| Alert management | ✅ | ✅ |
-| CSV export | ✅ | ✅ |
-| PDF reports | ❌ | ✅ |
-| Threat intelligence | ❌ | ✅ |
-| Remote agents | ❌ | ✅ |
-| API access | ❌ | ✅ |
-
----
-
-## 🧪 Running Tests
-
-```bash
-python -m pytest tests/ -v
-```
-
----
-
 ## 📊 Tech Stack
 
 | Component | Technology |
